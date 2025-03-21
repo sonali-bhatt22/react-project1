@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://your-username.github.io/your-repository-name"
+    
   },
   "dependencies": {
     "axios": "^1.7.9",
