@@ -1,5 +1,6 @@
 {
   "name": "20-project1",
+  "homepage": "https://sonali-bhatt22.github.io/react-project1/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
-    
+
     
 
     
